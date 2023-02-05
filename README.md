@@ -1,5 +1,5 @@
 <html> 
-Perfecta-Clothing
+Perfecta-Clothing </html
 Clothing brand
 <a href="newpage">  Shop </a>
-</html>
+<a href="newpage"> More About My Brand </a>
