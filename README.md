@@ -1,4 +1,5 @@
-<html> <section
+<html> <section>
+  <head>
                 Perfecta-Clothing </section> </html>
                 <h1> Perfecta Clothing </h1>
 <h2> Clothing brand </h2>
@@ -11,3 +12,4 @@
         text-align: center;
       }
  </style>
+</head>
