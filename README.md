@@ -6,4 +6,4 @@
 <ul> <li><a href="newpage">  Shop </a> </li> </ul>
 
 <ul> <li>  <a href="newpage"> More About My Brand </a> </li> </ul>
-<ul> <li> <a href="newpage.com> Upcoming Drops </a> </li> </ul>
+<ul> <li>  <a href="newpage.com"> Upcoming Drops </a> </li> </ul>
