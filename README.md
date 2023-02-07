@@ -1,5 +1,6 @@
-<html> <section>
-  <head>
+<!DOCTYPE html>
+<html lang="en">
+<html> <section
                 Perfecta-Clothing </section> </html>
                 <h1> Perfecta Clothing </h1>
 <h2> Clothing brand </h2>
@@ -12,4 +13,3 @@
         text-align: center;
       }
  </style>
-</head>
